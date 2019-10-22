@@ -15,7 +15,7 @@ class TransactionList extends StatelessWidget {
           child: Row(
             children: <Widget>[
               Container(
-                margin: EdgeInsets.symmetric(
+                margin: EdgeInsets.symmetric(     
                   horizontal: 15,
                   vertical: 10,
                 ),
